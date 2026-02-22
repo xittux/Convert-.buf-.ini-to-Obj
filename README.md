@@ -36,6 +36,9 @@ Textures do not automatically load in Blender
 
 Material (.mtl) generation may be incomplete or missing
 
+<img width="721" height="860" alt="image" src="https://github.com/user-attachments/assets/8aeef9e2-98ab-4334-a1bb-e9d14070ae30" />
+
+
 Some meshes may require manual adjustment after import
 
 This version focuses mainly on geometry extraction. Texture mapping support is still being improved.
