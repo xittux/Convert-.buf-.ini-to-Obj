@@ -38,6 +38,9 @@ Material (.mtl) generation may be incomplete or missing
 
 <img width="721" height="860" alt="image" src="https://github.com/user-attachments/assets/8aeef9e2-98ab-4334-a1bb-e9d14070ae30" />
 
+<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/2c00da4b-04bb-4bac-a841-16da178450a9" />
+
+
 
 Some meshes may require manual adjustment after import
 
